@@ -20,3 +20,5 @@ seconds.
 Lastly, I used an Arduino Nano (label 5) to keep the device as
 compact and light-weight as possible.
 
+![Mask Clip thumbnail](https://user-images.githubusercontent.com/34201673/183146085-5889e9fa-868e-4c3c-8e98-57d671f8e1b1.png)
+![masked](https://user-images.githubusercontent.com/34201673/183146093-8d61042c-859f-4376-8012-dad983aa6aaf.jpg)
