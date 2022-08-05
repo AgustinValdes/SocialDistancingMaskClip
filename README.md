@@ -19,6 +19,7 @@ The tactile switch (label 4) starts a grace period of only 60
 seconds.
 Lastly, I used an Arduino Nano (label 5) to keep the device as
 compact and light-weight as possible.
+
 A video demo is located here: https://youtu.be/2ZQ9QO3VkqU
 
 ![Mask Clip thumbnail](https://user-images.githubusercontent.com/34201673/183146085-5889e9fa-868e-4c3c-8e98-57d671f8e1b1.png)
